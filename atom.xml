@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kytu]]></title>
+  <link href="http://kytu800.github.com/atom.xml" rel="self"/>
+  <link href="http://kytu800.github.com/"/>
+  <updated>2012-09-14T15:42:36+08:00</updated>
+  <id>http://kytu800.github.com/</id>
+  <author>
+    <name><![CDATA[kytu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Introduction to HTML]]></title>
+    <link href="http://kytu800.github.com/blog/2012/09/14/introduction-to-html/"/>
+    <updated>2012-09-14T15:02:00+08:00</updated>
+    <id>http://kytu800.github.com/blog/2012/09/14/introduction-to-html</id>
+    <content type="html"><![CDATA[<p>Sounds cool right?</p>
+
+<h1>test</h1>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[首發]]></title>
+    <link href="http://kytu800.github.com/blog/2012/09/14/first-post/"/>
+    <updated>2012-09-14T00:24:00+08:00</updated>
+    <id>http://kytu800.github.com/blog/2012/09/14/first-post</id>
+    <content type="html"><![CDATA[<p>第一次用 markdown 寫部落格</p>
+
+<p>Octopress 真的蠻奇妙的 XD</p>
+
+<p>因為有一點點 Ruby 經驗安裝起來比較快</p>
+
+<p>今日小任務成功!!</p>
+]]></content>
+  </entry>
+  
+</feed>
