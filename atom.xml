@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-14T15:44:04+08:00</updated>
+  <updated>2012-09-14T15:44:46+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -18,9 +18,15 @@
     <link href="http://kytu800.github.com/blog/2012/09/14/introduction-to-html/"/>
     <updated>2012-09-14T15:02:00+08:00</updated>
     <id>http://kytu800.github.com/blog/2012/09/14/introduction-to-html</id>
-    <content type="html"><![CDATA[<p>Sounds cool right?</p>
+    <content type="html"><![CDATA[<p>markdown 一直不是很順</p>
 
-<h1>test</h1>
+<p>但還是得繼續練習</p>
+
+<p>先來說說 HTML 好了!</p>
+
+<p>HTML 全文 xxxxxx</p>
+
+<p>他不是一種程式語言，也就是無法拿來邏輯運算</p>
 ]]></content>
   </entry>
   
