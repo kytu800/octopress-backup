@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-26T21:54:44+08:00</updated>
+  <updated>2012-09-26T22:00:43+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -18,23 +18,18 @@
     <link href="http://kytu800.github.com/blog/2012/09/26/ccsp-good-site/"/>
     <updated>2012-09-26T21:48:00+08:00</updated>
     <id>http://kytu800.github.com/blog/2012/09/26/ccsp-good-site</id>
-    <content type="html"><![CDATA[<h1>What you must know</h1>
+    <content type="html"><![CDATA[<h1>Editor</h1>
 
-<p>This is Learning Map!</p>
-
-<p>===</p>
-
-<h1>Editor</h1>
-
-<p>Sublime Text 2</p>
+<p>Sublime Text 2
+<a href="http://www.sublimetext.com/">http://www.sublimetext.com/</a></p>
 
 <h2>HTML 教學</h2>
 
-<p>http://www.w3schools.com/html/default.asp</p>
+<p><a href="http://www.w3schools.com/html/default.asp">http://www.w3schools.com/html/default.asp</a></p>
 
 <h2>CSS 教學</h2>
 
-<p><a href="">http://css.1keydata.com/tw/</a></p>
+<p><a href="http://css.1keydata.com/tw/">http://css.1keydata.com/tw/</a></p>
 
 <h2>Javascript</h2>
 
@@ -47,69 +42,67 @@
 
 <h2>ZenCoding</h2>
 
-<p>http://code.google.com/p/zen-coding/</p>
+<p><a href="http://code.google.com/p/zen-coding/">http://code.google.com/p/zen-coding/</a></p>
 
 <h2>SCSS/SASS</h2>
 
-<p>http://sass-lang.com/</p>
+<p><a href="http://sass-lang.com/">http://sass-lang.com/</a></p>
 
 <h2>based on scss &#8230; we have Compass!</h2>
 
-<p>http://compass-style.org/</p>
+<p><a href="http://compass-style.org/">http://compass-style.org/</a></p>
 
 <h2>LESS</h2>
 
-<p>http://lesscss.org/</p>
+<p><a href="http://lesscss.org/">http://lesscss.org/</a></p>
 
 <h2>CoffeeScript (Actually I don&#8217;t use it.)</h2>
 
-<p>http://coffeescript.org/</p>
+<p><a href="http://coffeescript.org/">http://coffeescript.org/</a></p>
 
 <hr />
 
 <h1>More:</h1>
 
-<hr />
-
 <h1>MVC!</h1>
 
-<p>http://addyosmani.github.com/todomvc/</p>
+<p><a href="http://addyosmani.github.com/todomvc/">http://addyosmani.github.com/todomvc/</a></p>
 
 <h1>We will teach backbone.js on class</h1>
 
 <h2>backbone</h2>
 
-<p>http://backbonejs.org/</p>
+<p><a href="http://backbonejs.org/">http://backbonejs.org/</a></p>
 
 <h1>CSS Framework?</h1>
 
 <h2>960 grid</h2>
 
-<p>http://960.gs/</p>
+<p><a href="http://960.gs/">http://960.gs/</a></p>
 
 <h2>blueprint</h2>
 
-<p>http://www.blueprintcss.org/</p>
+<p><a href="http://www.blueprintcss.org/">http://www.blueprintcss.org/</a></p>
 
 <h1>More than CSS Framework?</h1>
 
 <h2>Bootstrap</h2>
 
-<p>http://twitter.github.com/bootstrap/</p>
+<p><a href="http://twitter.github.com/bootstrap/">http://twitter.github.com/bootstrap/</a></p>
 
 <h2>Foundation</h2>
 
-<p>http://foundation.zurb.com/</p>
+<p><a href="http://foundation.zurb.com/">http://foundation.zurb.com/</a></p>
 
 <h1>some other ui</h1>
 
 <h2>Jquery UI</h2>
 
-<p>http://jqueryui.com/</p>
+<p><a href="http://jqueryui.com/">http://jqueryui.com/</a></p>
 
 <h2>Chico UI</h2>
 
-<p>http://chico-ui.com.ar/</p>
+<p><a href="http://chico-ui.com.ar/">http://chico-ui.com.ar/</a></p>
 
 <hr />
 
@@ -118,17 +111,17 @@
 <h2>It is a whole new world!</h2>
 
 <p>Examples:
-http://www.html5rocks.com/en/</p>
+<a href="http://www.html5rocks.com/en/">http://www.html5rocks.com/en/</a></p>
 
 <p>Animation?</p>
 
 <h2>Edge</h2>
 
-<p>http://labs.adobe.com/technologies/edge/</p>
+<p><a href="http://labs.adobe.com/technologies/edge/">http://labs.adobe.com/technologies/edge/</a></p>
 
 <h2>Flash CS6 can convert to HTML5!!</h2>
 
-<p>http://www.adobe.com/tw/products/flash.html</p>
+<p><a href="http://www.adobe.com/tw/products/flash.html">http://www.adobe.com/tw/products/flash.html</a></p>
 
 <h2>Paper.js</h2>
 
@@ -150,7 +143,7 @@ http://www.html5rocks.com/en/</p>
 
 <h2>balsamiq mockups</h2>
 
-<p>http://www.balsamiq.com/products/mockups</p>
+<p><a href="http://www.balsamiq.com/products/mockups">http://www.balsamiq.com/products/mockups</a></p>
 
 <p>===</p>
 
@@ -168,13 +161,13 @@ http://www.html5rocks.com/en/</p>
 
 <h2>html5boilerplate</h2>
 
-<p>http://html5boilerplate.com/</p>
+<p><a href="http://html5boilerplate.com/">http://html5boilerplate.com/</a></p>
 
 <p>Styling</p>
 
 <h2>Masonry (if you want pintrest like)</h2>
 
-<p>http://masonry.desandro.com/</p>
+<p><a href="http://masonry.desandro.com/">http://masonry.desandro.com/</a></p>
 
 <h1>Testing</h1>
 
@@ -182,7 +175,7 @@ http://www.html5rocks.com/en/</p>
 
 <h1>You can learn a lot from other!#Awwwards</h1>
 
-<p>http://www.awwwards.com/</p>
+<p><a href="http://www.awwwards.com/">http://www.awwwards.com/</a></p>
 ]]></content>
   </entry>
   
