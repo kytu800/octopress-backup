@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-26T22:13:30+08:00</updated>
+  <updated>2012-09-26T22:15:45+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -20,7 +20,7 @@
     <id>http://kytu800.github.com/blog/2012/09/26/ccsp-good-site</id>
     <content type="html"><![CDATA[<h1>Editor</h1>
 
-<p>Sublime Text 2
+<p>Sublime Text 2<br/>
 <a href="http://www.sublimetext.com/">http://www.sublimetext.com/</a></p>
 
 <h1>basic</h1>
@@ -37,8 +37,6 @@
 
 <p>從 JQuery 入門容易產生興趣<br/>
 <a href="http://jquery.com/">http://jquery.com/</a></p>
-
-<hr />
 
 <h1>想寫得更快嗎？</h1>
 
@@ -64,12 +62,12 @@
 
 <h1>MVC</h1>
 
-<p>各種MVC比較
+<p>各種MVC比較<br/>
 <a href="http://addyosmani.github.com/todomvc/">http://addyosmani.github.com/todomvc/</a></p>
 
 <h2>backbone</h2>
 
-<p>課堂上會教!
+<p>課堂上會教!<br/>
 <a href="http://backbonejs.org/">http://backbonejs.org/</a></p>
 
 <h1>CSS layout Framework</h1>
@@ -82,9 +80,9 @@
 
 <p><a href="http://www.blueprintcss.org/">http://www.blueprintcss.org/</a></p>
 
-<h1>RIA ui</h1>
+<h1>RIA UI</h1>
 
-<h2>Jquery UI</h2>
+<h2>JQuery UI</h2>
 
 <p><a href="http://jqueryui.com/">http://jqueryui.com/</a></p>
 
@@ -100,7 +98,7 @@
 
 <h1>Mobile CSS Framework</h1>
 
-<h2>Jquery Mobile</h2>
+<h2>JQuery Mobile</h2>
 
 <p><a href="http://jquerymobile.com/">http://jquerymobile.com/</a></p>
 ]]></content>
