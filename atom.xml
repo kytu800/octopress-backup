@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-26T22:50:43+08:00</updated>
+  <updated>2012-09-26T22:52:24+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -84,7 +84,7 @@
 
 <h1>Responsive CSS Framework</h1>
 
-<p>流動排版，支援跨瀏覽器</p>
+<p>流動排版，支援跨裝置瀏覽</p>
 
 <h2>Bootstrap</h2>
 
