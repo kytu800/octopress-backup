@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-14T15:44:46+08:00</updated>
+  <updated>2012-09-26T21:52:38+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Introduction to HTML]]></title>
-    <link href="http://kytu800.github.com/blog/2012/09/14/introduction-to-html/"/>
-    <updated>2012-09-14T15:02:00+08:00</updated>
-    <id>http://kytu800.github.com/blog/2012/09/14/introduction-to-html</id>
+    <title type="html"><![CDATA[ccsp-good-site]]></title>
+    <link href="http://kytu800.github.com/blog/2012/09/26/ccsp-good-site/"/>
+    <updated>2012-09-26T21:48:00+08:00</updated>
+    <id>http://kytu800.github.com/blog/2012/09/26/ccsp-good-site</id>
     <content type="html"><![CDATA[<p>markdown 一直不是很順</p>
 
 <p>但還是得繼續練習</p>
@@ -27,6 +27,8 @@
 <p>HTML 全文 xxxxxx</p>
 
 <p>他不是一種程式語言，也就是無法拿來邏輯運算</p>
+
+<p>它主要是拿來表達排版！</p>
 ]]></content>
   </entry>
   
