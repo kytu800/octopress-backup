@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-26T22:43:24+08:00</updated>
+  <updated>2012-09-26T22:46:05+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -18,7 +18,8 @@
     <link href="http://kytu800.github.com/blog/2012/09/26/ccsp-good-site/"/>
     <updated>2012-09-26T21:48:00+08:00</updated>
     <id>http://kytu800.github.com/blog/2012/09/26/ccsp-good-site</id>
-    <content type="html"><![CDATA[<p>接觸 Web Design 常會不知道世界上有什麼好玩的新東西。於是這裡羅列了一些網站，只有簡單名詞跟介紹，目的是提供幾個關鍵字讓各位更深入學習！</p>
+    <content type="html"><![CDATA[<p>接觸 Web Design 常會不知道世界上有什麼好玩的新東西。<br/>
+於是這裡羅列了一些網站，只有簡單名詞跟介紹，目的是提供幾個關鍵字讓各位更深入學習！</p>
 
 <h1>Editor</h1>
 
@@ -71,7 +72,7 @@
 
 <h1>CSS layout Framework</h1>
 
-<p>現在比較少人用，曾經流行過</p>
+<p>現在比較少人用，曾經流行過，現多用 Responsive CSS Framework</p>
 
 <h2>960 grid</h2>
 
@@ -80,14 +81,6 @@
 <h2>blueprint</h2>
 
 <p><a href="http://www.blueprintcss.org/">http://www.blueprintcss.org/</a></p>
-
-<h1>RIA UI</h1>
-
-<p>提供一些互動式元件</p>
-
-<h2>JQuery UI</h2>
-
-<p><a href="http://jqueryui.com/">http://jqueryui.com/</a></p>
 
 <h1>Responsive CSS Framework</h1>
 
@@ -109,6 +102,14 @@
 
 <p>建立 Mobile Web 好幫手，另可配合 PhoneGap 產生 Web app<br/>
 <a href="http://jquerymobile.com/">http://jquerymobile.com/</a></p>
+
+<h1>RIA UI</h1>
+
+<p>提供一些互動式元件</p>
+
+<h2>JQuery UI</h2>
+
+<p><a href="http://jqueryui.com/">http://jqueryui.com/</a></p>
 
 <h1>MVC</h1>
 
