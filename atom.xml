@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-26T22:08:37+08:00</updated>
+  <updated>2012-09-26T22:13:30+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -62,17 +62,17 @@
 
 <p><a href="http://coffeescript.org/">http://coffeescript.org/</a></p>
 
-<h1>MVC!</h1>
+<h1>MVC</h1>
 
-<p><a href="http://addyosmani.github.com/todomvc/">http://addyosmani.github.com/todomvc/</a></p>
-
-<h1>We will teach backbone.js on class</h1>
+<p>各種MVC比較
+<a href="http://addyosmani.github.com/todomvc/">http://addyosmani.github.com/todomvc/</a></p>
 
 <h2>backbone</h2>
 
-<p><a href="http://backbonejs.org/">http://backbonejs.org/</a></p>
+<p>課堂上會教!
+<a href="http://backbonejs.org/">http://backbonejs.org/</a></p>
 
-<h1>CSS Framework?</h1>
+<h1>CSS layout Framework</h1>
 
 <h2>960 grid</h2>
 
@@ -82,7 +82,13 @@
 
 <p><a href="http://www.blueprintcss.org/">http://www.blueprintcss.org/</a></p>
 
-<h1>More than CSS Framework?</h1>
+<h1>RIA ui</h1>
+
+<h2>Jquery UI</h2>
+
+<p><a href="http://jqueryui.com/">http://jqueryui.com/</a></p>
+
+<h1>Responsive CSS Framework</h1>
 
 <h2>Bootstrap</h2>
 
@@ -92,88 +98,11 @@
 
 <p><a href="http://foundation.zurb.com/">http://foundation.zurb.com/</a></p>
 
-<h1>some other ui</h1>
+<h1>Mobile CSS Framework</h1>
 
-<h2>Jquery UI</h2>
+<h2>Jquery Mobile</h2>
 
-<p><a href="http://jqueryui.com/">http://jqueryui.com/</a></p>
-
-<h2>Chico UI</h2>
-
-<p><a href="http://chico-ui.com.ar/">http://chico-ui.com.ar/</a></p>
-
-<hr />
-
-<h1>HTML5? CSS3?</h1>
-
-<h2>It is a whole new world!</h2>
-
-<p>Examples:
-<a href="http://www.html5rocks.com/en/">http://www.html5rocks.com/en/</a></p>
-
-<p>Animation?</p>
-
-<h2>Edge</h2>
-
-<p><a href="http://labs.adobe.com/technologies/edge/">http://labs.adobe.com/technologies/edge/</a></p>
-
-<h2>Flash CS6 can convert to HTML5!!</h2>
-
-<p><a href="http://www.adobe.com/tw/products/flash.html">http://www.adobe.com/tw/products/flash.html</a></p>
-
-<h2>Paper.js</h2>
-
-<p><a href="http://paperjs.org/">http://paperjs.org/</a></p>
-
-<h2>3D.js</h2>
-
-<hr />
-
-<h1>What else a good web designer can learn?</h1>
-
-<h1>Design:</h1>
-
-<h2>Photoshop</h2>
-
-<h2>Fontawesome</h2>
-
-<h1>Mockup:</h1>
-
-<h2>balsamiq mockups</h2>
-
-<p><a href="http://www.balsamiq.com/products/mockups">http://www.balsamiq.com/products/mockups</a></p>
-
-<hr />
-
-<h1>Mobile</h1>
-
-<h2>zepto.js</h2>
-
-<hr />
-
-<h1>Templating</h1>
-
-<h2>Jade</h2>
-
-<h2>start from template (this is not templating!)</h2>
-
-<h2>html5boilerplate</h2>
-
-<p><a href="http://html5boilerplate.com/">http://html5boilerplate.com/</a></p>
-
-<p>Styling</p>
-
-<h2>Masonry (if you want pintrest like)</h2>
-
-<p><a href="http://masonry.desandro.com/">http://masonry.desandro.com/</a></p>
-
-<h1>Testing</h1>
-
-<hr />
-
-<h1>You can learn a lot from other!#Awwwards</h1>
-
-<p><a href="http://www.awwwards.com/">http://www.awwwards.com/</a></p>
+<p><a href="http://jquerymobile.com/">http://jquerymobile.com/</a></p>
 ]]></content>
   </entry>
   
