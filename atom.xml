@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-26T22:35:26+08:00</updated>
+  <updated>2012-09-26T22:36:26+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<h1>Editor</h1>
 
 <p>Sublime Text 2<br/>
-<a href="http://www.sublimetext.com/">http://www.sublimetext.com/</a>
+<a href="http://www.sublimetext.com/">http://www.sublimetext.com/</a><br/>
 務必安裝 package install ， 相當方便的套件管理!<br/>
 <a href="http://wbond.net/sublime_packages/package_control/installation">http://wbond.net/sublime_packages/package_control/installation</a></p>
 
