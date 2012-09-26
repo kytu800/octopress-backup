@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-26T22:05:05+08:00</updated>
+  <updated>2012-09-26T22:06:40+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -145,13 +145,13 @@
 
 <p><a href="http://www.balsamiq.com/products/mockups">http://www.balsamiq.com/products/mockups</a></p>
 
-<p>===</p>
+<hr />
 
 <h1>Mobile</h1>
 
 <h2>zepto.js</h2>
 
-<p>===</p>
+<hr />
 
 <h1>Templating</h1>
 
