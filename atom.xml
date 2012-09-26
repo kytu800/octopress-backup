@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-26T22:17:44+08:00</updated>
+  <updated>2012-09-26T22:23:23+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -35,8 +35,7 @@
 
 <h2>Javascript</h2>
 
-<p>從 JQuery 入門容易產生興趣<br/>
-<a href="http://jquery.com/">http://jquery.com/</a></p>
+<p><a href="http://jquery.com/">http://jquery.com/</a></p>
 
 <h1>想寫得更快嗎？</h1>
 
@@ -99,8 +98,7 @@
 
 <h2>backbone</h2>
 
-<p>課堂上會教!<br/>
-<a href="http://backbonejs.org/">http://backbonejs.org/</a></p>
+<p><a href="http://backbonejs.org/">http://backbonejs.org/</a></p>
 ]]></content>
   </entry>
   
