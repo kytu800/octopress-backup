@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-26T22:06:40+08:00</updated>
+  <updated>2012-09-26T22:08:37+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -61,8 +61,6 @@
 <h2>CoffeeScript (Actually I don&#8217;t use it.)</h2>
 
 <p><a href="http://coffeescript.org/">http://coffeescript.org/</a></p>
-
-<hr />
 
 <h1>MVC!</h1>
 
