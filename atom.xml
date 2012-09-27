@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-26T22:52:24+08:00</updated>
+  <updated>2012-09-27T14:33:13+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[HTML5 CSS3 Good Sites]]></title>
+    <link href="http://kytu800.github.com/blog/2012/09/27/html5-css3-good-sites/"/>
+    <updated>2012-09-27T14:30:00+08:00</updated>
+    <id>http://kytu800.github.com/blog/2012/09/27/html5-css3-good-sites</id>
+    <content type="html"><![CDATA[<h1>html5</h1>
+
+<h2>HTML5 Rocks</h2>
+
+<h1>CSS3 helper sites</h1>
+
+<h2>CSS3 Please</h2>
+
+<p>http://css3please.com/</p>
+
+<h2>CSS3 Generator</h2>
+
+<p>http://css3generator.com/</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Web Design Concepts Index]]></title>
@@ -121,7 +142,7 @@
 <p>目前最火紅<br/>
 <a href="http://backbonejs.org/">http://backbonejs.org/</a></p>
 
-<h2>Underscorejs</h2>
+<h2>Underscore.js</h2>
 
 <p>不是 MVC ，作者跟 Backbone.js 、 Coffee Script 為同一位<br/>
 提供許多好用的功能!跟 Backbone.js 結合使用效果強大<br/>
