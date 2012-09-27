@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-27T14:35:04+08:00</updated>
+  <updated>2012-09-27T14:42:27+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -14,11 +14,26 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Web Font]]></title>
+    <link href="http://kytu800.github.com/blog/2012/09/27/web-font/"/>
+    <updated>2012-09-27T14:40:00+08:00</updated>
+    <id>http://kytu800.github.com/blog/2012/09/27/web-font</id>
+    <content type="html"><![CDATA[<h2>Google web font</h2>
+
+<p><a href="http://www.google.com/webfonts">http://www.google.com/webfonts</a></p>
+
+<h2>Just font (中文字體)</h2>
+
+<p><a href="http://www.justfont.com/">http://www.justfont.com/</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[HTML5 CSS3 Good Sites]]></title>
     <link href="http://kytu800.github.com/blog/2012/09/27/html5-css3-good-sites/"/>
     <updated>2012-09-27T14:30:00+08:00</updated>
     <id>http://kytu800.github.com/blog/2012/09/27/html5-css3-good-sites</id>
-    <content type="html"><![CDATA[<h1>html5</h1>
+    <content type="html"><![CDATA[<h1>HTML5</h1>
 
 <h2>HTML5 Rocks</h2>
 
