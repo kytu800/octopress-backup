@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-27T14:33:13+08:00</updated>
+  <updated>2012-09-27T14:35:04+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -22,15 +22,17 @@
 
 <h2>HTML5 Rocks</h2>
 
+<p><a href="http://www.html5rocks.com">http://www.html5rocks.com</a></p>
+
 <h1>CSS3 helper sites</h1>
 
 <h2>CSS3 Please</h2>
 
-<p>http://css3please.com/</p>
+<p><a href="http://css3please.com/">http://css3please.com/</a></p>
 
 <h2>CSS3 Generator</h2>
 
-<p>http://css3generator.com/</p>
+<p><a href="http://css3generator.com/">http://css3generator.com/</a></p>
 ]]></content>
   </entry>
   
