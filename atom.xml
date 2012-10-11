@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-09-27T14:42:27+08:00</updated>
+  <updated>2012-10-11T15:38:54+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mock up tools]]></title>
+    <link href="http://kytu800.github.com/blog/2012/10/11/mockup-tool/"/>
+    <updated>2012-10-11T14:40:00+08:00</updated>
+    <id>http://kytu800.github.com/blog/2012/10/11/mockup-tool</id>
+    <content type="html"><![CDATA[<h2>Balsamiq.com</h2>
+
+<p><a href="http://www.balsamiq.com/">http://www.balsamiq.com/</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Web Font]]></title>
