@@ -4,7 +4,7 @@
   <title><![CDATA[Kytu]]></title>
   <link href="http://kytu800.github.com/atom.xml" rel="self"/>
   <link href="http://kytu800.github.com/"/>
-  <updated>2012-10-11T16:15:23+08:00</updated>
+  <updated>2012-10-11T16:40:08+08:00</updated>
   <id>http://kytu800.github.com/</id>
   <author>
     <name><![CDATA[kytu]]></name>
@@ -18,7 +18,7 @@
     <link href="http://kytu800.github.com/blog/2012/10/11/mockup-tool/"/>
     <updated>2012-10-11T14:40:00+08:00</updated>
     <id>http://kytu800.github.com/blog/2012/10/11/mockup-tool</id>
-    <content type="html"><![CDATA[<h2>Balsamiq.com</h2>
+    <content type="html"><![CDATA[<h2>Balsamiq</h2>
 
 <p>最有名的 Mockup tool，手繪風，要收錢但很實用，可以考慮用 web demo 再拍畫面下來<br/>
 <a href="http://www.balsamiq.com/">http://www.balsamiq.com/</a></p>
@@ -36,7 +36,7 @@
 
 <h2>Codiqa</h2>
 
-<p>For Jquery Mobile
+<p>For Jquery Mobile<br/>
 <a href="http://www.codiqa.com/">http://www.codiqa.com/</a></p>
 
 <h2>Jetstrap</h2>
